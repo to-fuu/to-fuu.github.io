@@ -11673,7 +11673,7 @@
             ]
         },
         {
-            "name": "traveler",
+            "name": "traveler (anemo)",
             "rarity": 5,
             "weaponType": "sword",
             "elementType": "anemo",
@@ -12584,7 +12584,7 @@
             ]
         },
         {
-            "name": "traveler",
+            "name": "traveler (geo)",
             "rarity": 5,
             "weaponType": "sword",
             "elementType": "geo",
